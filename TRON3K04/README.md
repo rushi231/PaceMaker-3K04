@@ -17,7 +17,7 @@ If there are any path errors just run the main file only instead of opening the 
 ## My Process
 Built With 
   - Python
-  -PyQt5
+  - PyQt5
   - Simulink
  
  ## What I learned
