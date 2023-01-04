@@ -15,7 +15,7 @@ To run the file for the DCM make sure to have PYQT5 installed and install any li
 If there are any path errors just run the main file only instead of opening the whole folder at once. 
 
 ## My Process
-# Built With 
+Built With 
   - Python
   -PyQt5
   - Simulink
