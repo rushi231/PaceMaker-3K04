@@ -29,7 +29,7 @@ Built With
  ## What I learned
   - This was my first time using serial commuincation with python on such a big project. I learned how to send in values to a paceamaker and verify if they correct data is being inputted and outputted. It took time to figure out how to get it working as there were many challenges that had to be solved. 
   
-  Below I have poseted some code written to implement serial communication using python.
+  Below I have posted some code written to implement serial communication using python.
   
    ```
  def transferfunction(self):
