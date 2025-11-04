@@ -84,7 +84,5 @@ Built With
         print("p_Mode = ",  p_Mode)
 
   ```
-  
- ## Continued Development
-  - With the short amount of time I would implement a feature where any numbers can be sent to the pacemaker instead of just hard coded values each time. Also this would lead to a better egram graph. This will be done in the future. 
+
 
